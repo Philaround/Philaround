@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 💬 Ask me about **Mountain Bike!**
+- 💬 Ask me about **Mountain Bikes!**
 
 - 📫 How to reach me **n.p.lavrentidis@gmail.com**
 
-- ⚡ Fun fact **Three Cats and One Dog**
+- ⚡ Fun fact **Three Cats and a Dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
