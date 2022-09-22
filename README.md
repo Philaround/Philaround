@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Phil</h1>
 <h3 align="center">A Junior Full-Stack Developer from Athens</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philaround" alt="philaround" /></a> </p>
-
-- 🔭 I’m currently working on [Shared Goal](http://www.sharedgoal.org/)
+- 🔭 My most recent project is [Shared Goal](http://www.sharedgoal.org/)
 
 - 🌱 I’m currently learning **Javascript and React**
 
 - 💬 Ask me about **Mountain Bikes!**
 
-- 📫 How to reach me **n.p.lavrentidis@gmail.com**
-
 - ⚡ Fun fact **Three Cats and a Dog**
+
+- 📫 How to reach me **n.p.lavrentidis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philaround&show_icons=true&locale=en" alt="philaround" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philaround&" alt="philaround" /></p>
