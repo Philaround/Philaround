@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **n.p.lavrentidis@gmail.com**
 
+- Checkout out my portfolion on [Troople](troopl.com/philyourself)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/philyourself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philyourself" height="30" width="40" /></a>
